@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marine-equinox-266603",
+  "private_key_id": "5c21ce4761f988941e4463da366cab374053d502",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRb8FSWzZPuj+n\nr5H0vj3UTZgJAP+PPqvWiwB1CA7U1Or5p/SGuQVAztotaRcMLx4U1GoFyxSbITof\nbThNh+m/olaVR9i49O32uhCMf6F+f4I1ioGLSGRgfqjpEZypodiMwHnmEQhzClQ+\n7qopWJuOOUqTQy8QiykqKxJy/L3RoZOTYGWMbPGK1RDpSRFztJ0EmDApCpn4sEEu\nAO8SkH7Hp/ehF+h+fF1Q0Tn9doLwuwEErkPs7TwDbFzKB5By/ILB8VBEk9PkMgTJ\nFMTqCJ8edld/6kIGcrC7ytE25iLhbsB5VPLmOWn7/l5SfjYGn3ZqynW4kJD4tIM8\n/M0lHKTZAgMBAAECggEATKvU4glyQI22b/TeQfLDP82IMwOiixYuYkRQzoc8pr2r\np+nMouVo/ui7BpTKUzOMl6OLjMNjr8biOE8LpZZ0BCux9sRumodP9lr3Y/f1bxHO\n4TrrYcoGtSypOWmxKIiPdjegaJEjvrmxTbihorFFgTOIEZEu0aegUkeiYWYVN4B9\nJnmsd1/ZVxMKGwxMrRprOMO4NW5Kq8YDcwNBk5FpmGdkbcA1q5Kt2X57Bsc+6ABF\n4q2+bZZ8+hlE1BRqTW2sXaZIz/MlvPOBB8xyj/B4I6HjVloYm3F9h1gT//5JxLUM\nLIJ0fT0RFDPaXVcffbUMojWCV0F8ue7f2crL4iCdYQKBgQD7FEyym9HwW1/UhjYZ\n5RhwwiZogGhzpjLMu/FYltAv9d7lcMbt0mEmpUD8PNx4TjeWTMzzRTLLCfyaoJ8M\n9VxJEt4vYgY5x6RqGB/hqBi9N+rzbor7okY+xMG7AfuzuKKAoeKz0aYYHAb+uOPb\n95ny3UCA6tssU6pJZiFlbRkmJwKBgQDViocpfwc8WkNJYeVjAzlSCnVaz2dVlzLx\nO8jb+v5la8R+zKZN8e2zVtad0Ei3akTIq4yf1dtHOedGwcQJ6nZhAA4F7fMJVj6U\nrkB+Ok638bSL2AlTpgzvsalyI/1doNRDlLU+qCY+012RGNyKfh04L7QTkXzXVZ10\nu1ehoH28/wKBgECfhO4jtPFMU2n78UjQ8m1zSzdydW/uwvx3EzNd/c+aVPhxAoKL\nt32e4w8JCyXb2+rPcaDbmqsvstiJpuZK8KnONWm0rS2J+QNlmi8WeOea0No/BX6m\n0bWuJr7fT81+JDU/dX4a48kozZQaOmuPWwxrbgLAcBEEp7ukkcvtPJ/ZAoGAE5ej\nMRZ7lnj9pXT68+uuza0x+UQASiUWQnXmxvAveSS7IZsrQwmIcqTsCgy7L0Dr0LGU\ntHGNrepNIvvSPcqqU9oKb1bWrqugEEowlqRI5q2hkBchO/CHTVKypktRCs8fypeR\nTY9l+uuvsQlj6r0Jd0dBMW5u0t8DFFu//Y9ZGgcCgYEAvzosIY0tbOGeuclxaeR0\n5oaRbpNbPtXUG1DC68/knKkSP13yBqicBLN44JACOwkRfngQsiYUcVagcV2hAzoT\nTBdlRAZaewr4RCkDb2PWMKLLKPv4ZQ0h8iftPGHWdxo82OVwbbEZJ/S3xyhIJLxv\nDATN5IxbW+U3BYhdHl6uPUY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-to-ipynb@marine-equinox-266603.iam.gserviceaccount.com",
+  "client_id": "117847135959984353695",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-to-ipynb%40marine-equinox-266603.iam.gserviceaccount.com"
+}
