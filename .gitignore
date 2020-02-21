@@ -127,5 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 .DS_Store
+=======
+vehicles.csv
+>>>>>>> c8278975aba344add3c5741f355d193e3c7b6630
